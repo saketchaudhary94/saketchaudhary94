@@ -1,29 +1,29 @@
 # 👋 Hi, I'm Saket Singh!
 
-I'm a passionate **Web Developer** currently exploring the amazing world of the **MERN Stack**! I enjoy building full-stack applications and always look forward to learning something new every day.
+I'm a passionate **Web Developer** currently exploring the **MERN Stack**! I enjoy building full-stack applications, tackling challenging problems, and learning something new every day. Let’s connect and create something amazing together!
 
 ---
 
 ### 💡 About Me
 
-- 🌐 **Web Development Enthusiast** with a focus on the **MERN Stack**.
-- 💼 Currently working on full-stack projects.
-- 💬 Let's collaborate on MERN stack or any full-stack development projects!
-- 🌱 I’m always excited to learn new things and improve my skills.
-- ⚡ **Fun Fact:** I love tackling challenges and learning something new daily!
+- 🌐 **Web Development Enthusiast** focused on mastering the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 💼 Currently working on full-stack projects to strengthen my development skills.
+- 💬 Open to collaboration on **MERN stack** or any full-stack development projects.
+- 🌱 A lifelong learner, always excited to dive into new technologies and best practices.
+- ⚡ **Fun Fact:** I enjoy problem-solving and taking on coding challenges to keep sharp!
 
 ---
 
 ### 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketchaudhary94&show_icons=true&theme=radical)
+![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketchaudhary94&show_icons=true&theme=radical&hide=issues,contribs)
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
@@ -51,8 +51,3 @@ I'm a passionate **Web Developer** currently exploring the amazing world of the 
 ### ✨ Quote
 
 > "The only way to do great work is to love what you do." — Steve Jobs
-
-<!---
-saketchaudhary94/saketchaudhary94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
