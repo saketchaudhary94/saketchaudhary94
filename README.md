@@ -1,53 +1,45 @@
- 👋 Hi, I'm Saket Singh!
+<h1 align="center">Hi 👋, I'm Saket Singh</h1>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
-I'm a passionate **Web Developer** currently exploring the amazing world of the **MERN Stack**! I enjoy building full-stack applications and always look forward to learning something new every day.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saketchaudhary94&label=Profile%20views&color=0e75b6&style=flat" alt="saketchaudhary94" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saketchaudhary94" alt="saketchaudhary94" /></a> </p>
 
-### 💡 About Me
+- 🔭 I’m currently working on **MERN Stack and various web development projects**
+- 🎥 I love sharing knowledge and insights about coding and web technologies
+- 🌱 I’m currently learning **advanced cloud technologies and DevOps**
+- 👨‍💻 All of my projects are available at [https://github.com/saketchaudhary94](https://github.com/saketchaudhary94)
+- 📝 I regularly share articles and tutorials on [https://saketsingh.dev](https://saketsingh.dev)
+- 💬 Ask me about **Node.js, React, MongoDB, PostgreSQL, and data structures**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saketsingh94/)
 
-- 🌐 **Web Development Enthusiast** with a focus on the **MERN Stack**.
-- 💼 Currently working on full-stack projects.
-- 💬 Let's collaborate on MERN stack or any full-stack development projects!
-- 🌱 I’m always excited to learn new things and improve my skills.
-- ⚡ **Fun Fact:** I love tackling challenges and learning something new daily!
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [ChatVerse: A Dynamic Conversational AI Platform](https://saketsingh.dev/chatverse-project)
+- [Implementing Authentication Middleware in Node.js](https://saketsingh.dev/nodejs-auth-middleware)
+- [Exploring Data Structures and Algorithms with Java](https://saketsingh.dev/algorithm-tutorials)
+- [A Guide to Deploying MERN Apps with Render](https://saketsingh.dev/mern-deployment-render)
+<!-- BLOG-POST-LIST:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saketsingh94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saketsingh94" height="30" width="40" /></a>
+<a href="https://twitter.com/saket_singh94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saket_singh94" height="30" width="40" /></a>
+</p>
 
-### 📈 My GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketchaudhary94&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketchaudhary94&show_icons=true&locale=en&layout=compact" alt="saketchaudhary94" /></p>
 
----
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-### 📊 My Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saketchaudhary94&layout=compact&theme=radical)
-
----
-
-### 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-### ✨ Quote
-
-> "The only way to do great work is to love what you do." — Steve Jobs
+<p>&nbsp;</p>
